@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="object.h" />
+    <ClInclude Include="object_data.h" />
+    <ClInclude Include="spaceship.h" />
+    <ClInclude Include="spaceship_data.h" />
+    <ClInclude Include="asteroid.h" />
+    <ClInclude Include="asteroid_data.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="object.cpp" />
+    <ClCompile Include="spaceship.cpp" />
+    <ClCompile Include="spaceship_data.cpp" />
+    <ClCompile Include="asteroid.cpp" />
+    <ClCompile Include="asteroid_data.cpp" />
+  </ItemGroup>
+</Project>
